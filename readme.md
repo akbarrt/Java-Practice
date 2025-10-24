@@ -1,3 +1,8 @@
+# Panduan Menggunakan Github
+
+## Funfact : Jadi disini yang ada di codelab praktikum saya terdapat sebuah task bagaimana cara menggunakan git dan github  
+
+
 ## Jadi disini saya akan menjelaskan tentang cara menggunakan Git dan GitHub untuk mengelola proyek pengembangan perangkat lunak.
 ## Git adalah sistem kontrol versi terdistribusi yang memungkinkan pengembang untuk melacak perubahan dalam kode sumber mereka. GitHub, di sisi lain, adalah platform hosting berbasis web yang menggunakan Git untuk mengelola repositori kode sumber.
 ## Langkah-langkah Menggunakan Git dan GitHub
